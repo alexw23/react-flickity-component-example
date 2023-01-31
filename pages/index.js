@@ -19,7 +19,7 @@ function Carousel() {
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div>
       <h1>React Flickity</h1>
       <Carousel />
     </div>
