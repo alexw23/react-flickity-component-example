@@ -208,10 +208,10 @@ react-dom@^18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
-react-flickity-component@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/react-flickity-component/-/react-flickity-component-4.0.0.tgz#6cbff2cb603833cfab4a9688613e39b2a8bbc05a"
-  integrity sha512-Wbqg/fl1NJDahjr5khQ5VkGFi0HyvuC/xwkuLYgrcWlcp13RZc05y4nqKGzBQGK7GdZqrd7nUDxG+ZTn1hg1nA==
+react-flickity-component@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/react-flickity-component/-/react-flickity-component-4.0.1.tgz#a98d9a5059211c2419f863a6b0c7f4fb9f347bd2"
+  integrity sha512-lIm0eeTyyDVw/bABmUqzBCPdq+CfdabkqXnbYhGsJTMTmzJ8z7rkfqkqzSlcbbkaDL3SS7kuDo95iftQUvxaTA==
   dependencies:
     imagesloaded "^4.1.4"
     prop-types "^15.7.2"
